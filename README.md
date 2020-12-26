@@ -3,7 +3,7 @@ I'm a 15 years old (as of 2020-12-26) guy from Poland. I'm not very good at *spe
 ## What projects am I going to upload here? 
 
 - low quality shit
-  - e.g. something that doesn't work
+  - [for example something like this](https://github.com/RedstonekPL/crappy-rock-paper-scissors)
   
 - maybe something higher quality idk
-  - e.g. something that works
+  - [for example something like this](https://github.com/RedstonekPL/Jejabot)
